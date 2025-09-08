@@ -1,2 +1,1 @@
 This is a new feature.
-Adding a new line to the file.
